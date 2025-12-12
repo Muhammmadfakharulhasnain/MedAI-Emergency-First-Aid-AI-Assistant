@@ -1,0 +1,1 @@
+// This file is deprecated. Please use services/triageService.ts in the root folder.

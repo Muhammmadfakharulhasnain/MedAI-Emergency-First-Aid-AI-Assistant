@@ -1,0 +1,1 @@
+// This file is deprecated. Please use config/firebase.ts in the root folder.

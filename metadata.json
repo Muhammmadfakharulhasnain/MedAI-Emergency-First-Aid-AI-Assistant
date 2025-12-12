@@ -1,0 +1,7 @@
+{
+  "name": "MedAI - Emergency First Aid Assistance",
+  "description": "A mobile-first PWA for instant injury triage and first aid advice using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

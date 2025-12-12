@@ -1,0 +1,1 @@
+// This file is deprecated. Please use services/geminiService.ts in the root folder.

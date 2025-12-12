@@ -1,0 +1,1 @@
+// This file is deprecated. Please use screens/ResultsScreen.tsx in the root folder.
